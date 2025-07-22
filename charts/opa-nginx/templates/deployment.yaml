@@ -25,6 +25,7 @@ spec:
             - run
             - --server
             - --bundle
+            - --v0-compatible
             - --config-file=/config/config.yaml
             - --tls-cert-file=/certs/tls.crt
             - --tls-private-key-file=/certs/tls.key

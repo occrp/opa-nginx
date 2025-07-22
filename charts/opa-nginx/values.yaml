@@ -9,7 +9,7 @@ opaNginx:
   authorizedKey: "allow"
   authorizedValue: "true"
 opa:
-  image: openpolicyagent/opa:0.70.0
+  image: openpolicyagent/opa:1.6.0
   imagePullPolicy: IfNotPresent
   logLevel: debug
 config: |

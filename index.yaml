@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   opa-nginx:
   - apiVersion: v2
+    appVersion: 0.0.4
+    created: "2025-07-22T15:47:21.840850335Z"
+    description: OPA Nginx Auth Request Integration
+    digest: 901f08e193659fc8d8ffc9864883a38c658429a6e3879cfaa9e21d3305cbfd50
+    name: opa-nginx
+    type: application
+    urls:
+    - https://github.com/occrp/opa-nginx/releases/download/opa-nginx-0.0.4/opa-nginx-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
     appVersion: 0.0.3
     created: "2024-10-01T13:32:23.581568893Z"
     description: OPA Nginx Auth Request Integration
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/occrp/opa-nginx/releases/download/opa-nginx-0.0.3/opa-nginx-0.0.3.tgz
     version: 0.0.3
-generated: "2024-10-01T13:32:23.581766944Z"
+generated: "2025-07-22T15:47:21.840863248Z"
